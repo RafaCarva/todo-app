@@ -9,7 +9,7 @@ module.exports = {
     },
     devServer:{
         port:8080,
-        coontentBase:'./public',
+        contentBase:'./public',
     },
 
     resolve:{
