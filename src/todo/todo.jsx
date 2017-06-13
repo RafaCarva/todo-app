@@ -8,7 +8,5 @@ export default class Todo extends Component {
                 <h1>Todo</h1>
             </div>
         )
-
-    } //render
-
-} //class
+    }
+}
