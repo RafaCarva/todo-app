@@ -8,7 +8,7 @@ export default props =>(
                     <i className='fa fa-calendar-check-o'></i> TodoApp
                 </a>
             </div>
-
+            
             <div id='navbar' className='navbar-collapse collapse'>
                 <ul className="nav navbar-nav">
                     <li><a href='#/tarefas'>Tarefas</a></li>
